@@ -1,0 +1,13 @@
+# VS Code
+.vscode/
+
+# Temporary Files
+*.log
+*.tmp
+
+# System
+.DS_Store
+Thumbs.db
+
+# Live Server
+.live-server/
